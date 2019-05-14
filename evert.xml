@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- PREBUILDS -->
-  <project path="prebuilts/clang/host/linux-x86/clang-5407736" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-5407736"  remote="crdroid" clone-depth="1" />
 
   <!-- KERNEL -->
   <project name="tumayouzi/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" remote="github" revision="Floko2.0"/>
@@ -12,7 +11,6 @@
   <!-- DEVICE -->
   <project name="tumayouzi/android_device_motorola_evert" path="device/motorola/evert" remote="github" revision="Floko2.0"/>
   <project name="tumayouzi/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="github" revision="Floko2.0"/>
-
 
   <!-- VENDER -->
   <project name="tumayouzi/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="Floko2.0"/>
