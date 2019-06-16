@@ -3,14 +3,14 @@
   <!-- PREBUILDS -->
 
   <!-- KERNEL -->
-  <project name="tumayouzi/android_kernel_motorola_msm8998" path="kernel/motorola/msm8998" remote="github" revision="Floko2.0"/>
+  <project name="tumayouzi/android_kernel_motorola_msm660" path="kernel/motorola/msm660" remote="github" revision="staging/Floko2.0"/>
 
   <!-- SYSTEM -->
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-16.0"/>
 
   <!-- DEVICE -->
   <project name="tumayouzi/android_device_motorola_evert" path="device/motorola/evert" remote="github" revision="Floko2.0"/>
-  <project name="tumayouzi/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="github" revision="Floko2.0"/>
+  <project name="tumayouzi/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="github" revision="staging/Floko2.0"/>
 
   <!-- VENDER -->
   <project name="tumayouzi/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="Floko2.0"/>
