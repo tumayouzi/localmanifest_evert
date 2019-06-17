@@ -4,7 +4,7 @@
   <project path="prebuilts/clang/host/linux-x86/clang-5484270" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-5484270"  remote="crdroid" clone-depth="1" />
 
   <!-- KERNEL -->
-  <project name="tumayouzi/android_kernel_motorola_msm660" path="kernel/motorola/msm660" remote="github" revision="staging/Floko2.0"/>
+  <project name="tumayouzi/android_kernel_motorola_sdm660" path="kernel/motorola/sdm660" remote="github" revision="staging/Floko2.0"/>
 
   <!-- SYSTEM -->
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-16.0"/>
