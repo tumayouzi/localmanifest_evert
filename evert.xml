@@ -10,7 +10,7 @@
   <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-16.0"/>
 
   <!-- DEVICE -->
-  <project name="tumayouzi/android_device_motorola_evert" path="device/motorola/evert" remote="github" revision="Floko2.0"/>
+  <project name="tumayouzi/android_device_motorola_evert" path="device/motorola/evert" remote="github" revision="staging/Floko2.0"/>
   <project name="tumayouzi/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="github" revision="staging/Floko2.0"/>
 
   <!-- VENDER -->
