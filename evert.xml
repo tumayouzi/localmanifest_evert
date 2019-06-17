@@ -14,6 +14,9 @@
 
   <!-- VENDER -->
   <project name="tumayouzi/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="Floko2.0"/>
+  <remove-project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
+  <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" path="vendor/qcom/opensource/cryptfs_hw" remote="github" revision="1e56c85dd8673d63897f65ef8fe9369bc8d1b313" />
+
 
   <!-- EXTERNAL -->
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-16.0"/>
