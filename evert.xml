@@ -14,7 +14,7 @@
   <project name="tumayouzi/android_device_motorola_sdm660-common" path="device/motorola/sdm660-common" remote="github" revision="staging/Floko2.0"/>
 
   <!-- VENDER -->
-  <project name="tumayouzi/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="Floko2.0"/>
+  <project name="tumayouzi/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="staging/Floko2.0"/>
 
   <!-- EXTERNAL -->
   <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="lineage-16.0"/>
